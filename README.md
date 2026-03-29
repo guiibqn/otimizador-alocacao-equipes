@@ -33,8 +33,5 @@ Diferente de exemplos teóricos simples, este algoritmo considera variáveis rea
     ```bash
     python main.py
 
-
-## Saída do Sistema
-
 ## Autor
 Guilherme Augusto Boquimpani
