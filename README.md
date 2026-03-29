@@ -49,3 +49,17 @@ Este projeto me ensinou a ponte entre a Engenharia de Software e a Gestão de Ne
 1. Clone o repositório:
 ```bash
 git clone [https://github.com/guiibqn/otimizador-alocacao-equipes.git](https://github.com/guiibqn/otimizador-alocacao-equipes.git)
+```
+
+2. Instale as dependências:
+```bash
+pip install -r requirements.txt
+```
+
+3. Execute a simulação:
+```bash
+python main.py
+```
+
+## Autor
+Guilherme Augusto Boquimpani
